@@ -1,5 +1,5 @@
 # testServer
- python tool to server availability and response times and logs in PostgreSQL
+ python tool to test server availability and response times and logs in PostgreSQL
 
 make a directory and pull the repo.
 
